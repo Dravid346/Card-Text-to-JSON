@@ -1,0 +1,193 @@
+Dogpile
+Spell, Meadow
+Lv1, Normal
+
+Discard your opponent's above monster if its level is less than the number of monsters you control.
+
+"The "prey" of meadow wolf packs typically find themselves incapacitated under a heap of fluff and slobber."
+
+
+Meadow Sunset
+Spell, Meadow
+Lv2, Trick
+
+End the battle, then end the turn.
+
+"When playtime is over, a blanket of darkness soothes the creatures of the land into peaceful rest."
+
+
+Herd's Bounty
+Spell, Meadow
+Lv1, Normal
+
+Draw a card for each monster you control.
+
+"At sunrise, every tree and bush bears ripe fruit; by sunset, every creature is full and happy."
+
+
+Playtime!
+Spell, Meadow
+Lv1, Normal
+
+Your monsters get +3p this turn.
+
+"While not as strong or skilled as the monsters of other lands, few can keep up with an excited herd of meadow critters."
+
+
+Bearhug
+Spell, Meadow
+Lv1, Enchantment
+
+Fading 3 (When your turn starts: Put a time counter on this. When the 3rd time counter is placed: Discard this.)
+
+As long as you control a monster in the above zone, your opponent's above monster can't move or attack.
+
+
+Carrier Pidgeon
+Monster, Sky
+Lv1, 4p
+
+Swiftstep (this monster can move to non-adjacent zones)
+
+When this monster moves: You can move one other card to an empty zone adjacent to that card.
+
+
+Howling Pup
+Monster, Sky
+Lv1, 4p
+
+Team Attack (When your adjacent monster attacks: You can spend this monster's attack to add its power to the adjacent monster this turn)
+
+
+Sky Rabbit
+Monster, Sky
+Lv1, 4p
+
+Swiftstep (this monster can move to non-adjacent zones)
+
+When summoned: Draw 2 cards, then discard a card from your hand.
+
+
+Cloud Sheep
+Monster, Sky
+Lv1, 4p
+
+Your other monsters get +1p.
+
+
+Rowdy Cub
+Monster, Sky
+Lv1, 4p
+
+When this attacks, if you control another monster: This gets +2p this turn.
+
+
+Gale Falcon
+Monster, Sky
+Lv1, 4p
+
+Swiftstep
+
+When summoned: You can discard your opponent's above spell.
+
+
+Affectionate Wolf
+Monster, Sky
+Lv2, 8p
+
+When summoned: Recover up to two Lv1 monsters.
+
+"The bounty and tranquility of the whale has fostered camaraderie between different animals over the centuries."
+
+
+Cultivating Bear
+Monster, Sky
+Lv2, 8p
+
+Guardian (When your adjacent monster is attacked: You can swap this card's position with it and continue the attack)
+
+When summoned: Draw a card.
+
+
+Whale Calf
+Monster, Sky
+Lv3, 12p
+
+Swiftstep
+
+If you control 2 or more other monsters, this can move and attack twice per turn.
+
+
+Outnumber
+Spell, Sky
+Lv1, Normal
+
+If you control more monsters than your opponent, discard one card in this column.
+
+
+Whirlwind
+Spell, Sky
+Lv1, Normal
+
+For each other card on the field, you can move it to an adjacent zone.
+
+
+Rolling World
+Spell, Sky
+Lv2, Normal
+
+Discard all cards on the field.
+
+"When the whale rolls, the ecosystem takes years to recover.
+
+
+Rainbow Garden
+Spell, Sky
+Lv1, Enchantment
+
+Fading 3
+
+Your above monster gets +3p.
+
+
+Sky Drop
+Spell, Sky
+Lv1, Enchantment
+
+Fading 4
+
+When your opponent's card(s) are discarded: Banish them.
+
+"Nothing that falls from the whale is ever seen again."
+
+
+Wings of Power
+Spell, Sky
+Lv1, Enchantment
+
+Fading 3
+
+Your above monster gets +2 Power and has swiftstep (it can move to non-adjacent zones). When it moves, you can move this to the empty Spell Zone below it.
+
+
+Glorious Anthem
+Spell, Sky
+Lv2, Enchantment
+
+Fading 3
+
+Your monsters get +3p.
+
+
+Crumbling Soil
+Spell, Sky
+Lv1, Trap
+
+When an above monster attacks: Discard all cards in this column.
+
+
+United Courage
+Spell, Sky
+Lv1, Trap
+
+When your above monster is attacked, if you control another monster: Your above monster gets +5p this turn for each other monster you control, then discard this.
